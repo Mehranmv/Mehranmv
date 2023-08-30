@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Mehranmv
-- 👀 I’m interested in  Machine Learning
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in  Django and backend developing
+- 🌱 I’m currently learning Django
 - 📫 How to reach me mehranmirzaeiv@gmail.com
 
 <!---
